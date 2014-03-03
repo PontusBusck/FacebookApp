@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Facebook App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">215143445349905</string>
+    <string name="refresh_button_string">Refresh</string>
+    <string name="post_photo_button_string">Post photo</string>
+    <string name="write_status_message">Write status message</string>
+    <string name="post_status">Post Status</string>
+
+</resources>
